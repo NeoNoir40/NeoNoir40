@@ -61,6 +61,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NeoNoir40/NeoNoir40/output/snake.svg" alt="Snake animation" />
 
 ###
