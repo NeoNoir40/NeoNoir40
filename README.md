@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Wilberth Cahuich, and I'm a Full-Stack JavaScript Developer from [Your Location]. Specialized in web and mobile application development using JavaScript technologies, including frontend and backend.</h2>
+<h2 align="left">Hi 👋! My name is Wilberth Cahuich, and I'm a Full-Stack JavaScript Developer . Specialized in web and mobile application development using JavaScript technologies</h2>
 
 ###
 
